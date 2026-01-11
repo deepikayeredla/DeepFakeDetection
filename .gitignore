@@ -1,0 +1,18 @@
+# Virtual environments
+venv/
+.env/
+
+# Datasets & outputs
+data/
+models/
+checkpoints/
+outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ML model files
+*.h5
+*.pt
+*.pth
